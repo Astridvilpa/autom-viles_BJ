@@ -352,6 +352,34 @@ Vehículo nacional, listo para disfrutar desde el primer día.
       "img/320-9.jpeg",
     ],
   },
+  {
+    id: "BMW 335 I TUIWN POWER TURBO",
+    title: "BMW 335 I TUIWN POWER TURBO 3.0 306cv",
+    brand: "BMW 335 I TUIWN POWER TURBO ",
+    year: 2013,
+    km: 195000,
+    price: 19000,
+    fuel: "Gasolina",
+    transmission: "Automático",
+    location: "Mora (Toledo)",
+    sold: false,
+    description:
+      "Coche perfecto para circular tanto en ciudad como en carretera. Vehículo  con distribución, aceite y filtros recién hechos. ITV en vigor hasta 2027.",
+    photos: [
+      "img/335.jpeg",
+      "img/335-1.jpeg",
+      "img/335-2.jpeg",
+      "img/335-3.jpeg",
+      "img/335-4.jpeg",
+      "img/335-5.jpeg",
+      "img/335-6.jpeg",
+      "img/335-7.jpeg",
+      "img/335-8.jpeg",
+      "img/335-9.jpeg",
+      "img/335-10.jpeg",
+      "img/335-11.jpeg",
+    ],
+  },
 ];
 
 /* UTILIDADES */
