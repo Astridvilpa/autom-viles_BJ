@@ -27,7 +27,7 @@ const CARS = [
     brand: "Renault",
     year: 1994,
     km: 86000,
-    price: 2500,
+    price: 600,
     fuel: "Gasolina",
     transmission: "Automático",
     location: "Mora (Toledo)",
