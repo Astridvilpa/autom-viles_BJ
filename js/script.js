@@ -252,7 +252,7 @@ Vehículo nacional, listo para disfrutar desde el primer día.
     fuel: "Gasolina",
     transmission: "Manual",
     location: "Mora (Toledo)",
-    sold: false,
+    sold: true,
     description:
       "Coche perfecto para circular tanto en ciudad como en carretera. Vehículo muy económico y de bajo consumo, con distribución, aceite y filtros recién hechos. ITV en vigor hasta 2026.",
     photos: [
