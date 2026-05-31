@@ -283,7 +283,7 @@ Vehículo nacional, listo para disfrutar desde el primer día.
     location: "Mora (Toledo)",
     sold: false,
     description:
-     "Coche perfecto para circular tanto en ciudad como en carretera. Vehículo muy económico y de bajo consumo, con distribución, aceite y filtros recién hechos. ITV en vigor hasta 2026.",
+      "Coche perfecto para circular tanto en ciudad como en carretera. Vehículo muy económico y de bajo consumo, con distribución, aceite y filtros recién hechos. ITV en vigor hasta 2026.",
     photos: [
       "img/cic4.jpeg",
       "img/cic4-1.jpeg",
@@ -297,6 +297,33 @@ Vehículo nacional, listo para disfrutar desde el primer día.
       "img/cic4-9.jpeg",
       "img/cic4-10.jpeg",
       "img/cic4-11.jpeg",
+    ],
+  },
+  {
+    id: "Mini one d clubman",
+    title: "Mini one d clubman 1.6 100cv",
+    brand: "Mini one d clubman",
+    year: 2011,
+    km: 215000,
+    price: 7000,
+    fuel: "Diésel",
+    transmission: "Manual",
+    location: "Mora (Toledo)",
+    sold: false,
+    description:
+      "Coche perfecto para circular tanto en ciudad como en carretera. Vehículo muy económico y de bajo consumo, con distribución, aceite y filtros recién hechos. ITV en vigor hasta 2026.",
+    photos: [
+      "img/mini.jpeg",
+      "img/mini1.jpeg",
+      "img/mini2.jpeg",
+      "img/mini3.jpeg",
+      "img/mini4.jpeg",
+      "img/mini5.jpeg",
+      "img/mini6.jpeg",
+      "img/mini7.jpeg",
+      "img/mini8.jpeg",
+      "img/mini9.jpeg",
+      "img/mini11.jpeg",
     ],
   },
 ];
@@ -461,7 +488,7 @@ function renderCars(filteredCars = CARS) {
   if (!grid) return;
 
   const sortedCars = [...filteredCars].sort(
-    (a, b) => Number(a.sold) - Number(b.sold)
+    (a, b) => Number(a.sold) - Number(b.sold),
   );
 
   grid.innerHTML = sortedCars.map(carTemplate).join("");
