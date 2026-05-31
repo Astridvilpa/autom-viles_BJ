@@ -191,7 +191,7 @@ Extras destacados:
     fuel: "Gasolina",
     transmission: "Automático",
     location: "Mora (Toledo)",
-    sold: false,
+    sold: true,
     description: `Disponemos en ocasión de este Audi Q5 en excelente estado, muy bien cuidado.
 Vehículo de dos propietarios (uso familiar), con mantenimiento realizado en servicio oficial Audi, lo que garantiza su buen estado mecánico.
 
