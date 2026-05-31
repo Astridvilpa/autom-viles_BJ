@@ -326,6 +326,32 @@ Vehículo nacional, listo para disfrutar desde el primer día.
       "img/mini11.jpeg",
     ],
   },
+  {
+    id: "BMW 320D Edition ",
+    title: "BMW 320D Edition 2.0 184cv",
+    brand: "BMW 320D Edition",
+    year: 2009,
+    km: 300000,
+    price: 6500,
+    fuel: "Diésel",
+    transmission: "Automático",
+    location: "Mora (Toledo)",
+    sold: false,
+    description:
+      "Coche perfecto para circular tanto en ciudad como en carretera. Vehículo muy económico y de bajo consumo, con distribución, aceite y filtros recién hechos. ITV en vigor hasta 2026.",
+    photos: [
+      "img/320.jpeg",
+      "img/320-1.jpeg",
+      "img/320-2.jpeg",
+      "img/320-3.jpeg",
+      "img/320-4.jpeg",
+      "img/320-5.jpeg",
+      "img/320-6.jpeg",
+      "img/320-7.jpeg",
+      "img/320-8.jpeg",
+      "img/320-9.jpeg",
+    ],
+  },
 ];
 
 /* UTILIDADES */
