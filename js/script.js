@@ -221,7 +221,7 @@ Vehículo nacional, listo para disfrutar desde el primer día.
     brand: "Renault",
     year: 2007,
     km: 222000,
-    price: 4000,
+    price: 2990,
     fuel: "Diesel",
     transmission: "Manual",
     location: "Mora (Toledo)",
