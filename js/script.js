@@ -271,6 +271,34 @@ Vehículo nacional, listo para disfrutar desde el primer día.
       "img/w13.jpeg",
     ],
   },
+  {
+    id: "Citroën c4",
+    title: "Citroën C4 1.6 110 cv",
+    brand: "Citroën",
+    year: 2006,
+    km: 272000,
+    price: 3300,
+    fuel: "Diésel",
+    transmission: "Manual",
+    location: "Mora (Toledo)",
+    sold: false,
+    description:
+     "Coche perfecto para circular tanto en ciudad como en carretera. Vehículo muy económico y de bajo consumo, con distribución, aceite y filtros recién hechos. ITV en vigor hasta 2026.",
+    photos: [
+      "img/cic4.jpeg",
+      "img/cic4-1.jpeg",
+      "img/cic4-2.jpeg",
+      "img/cic4-3.jpeg",
+      "img/cic4-4.jpeg",
+      "img/cic4-5.jpeg",
+      "img/cic4-6.jpeg",
+      "img/cic4-7.jpeg",
+      "img/cic4-8.jpeg",
+      "img/cic4-9.jpeg",
+      "img/cic4-10.jpeg",
+      "img/cic4-11.jpeg",
+    ],
+  },
 ];
 
 /* UTILIDADES */
