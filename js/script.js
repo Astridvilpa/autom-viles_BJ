@@ -88,7 +88,7 @@ Itv asta el 2027`,
     fuel: "Gasolina",
     transmission: "Manual",
     location: "Mora (Toledo)",
-    sold: false,
+    sold: true,
     description: `Vehículo deportivo, potente y muy bien equipado, en excelente estado y con una conducción espectacular.
 
 Incluye 1 año de garantía.
